@@ -9,7 +9,7 @@ Based on [redlock-php](https://github.com/ronnylt/redlock-php) transform to [Hyp
 
 使用前建议先了解一下Redlock算法的原理，[Redis作者Antirez文章解释Redlock算法（英文）](http://antirez.com/news/77)
 
-我自己也写了一篇文章对RedLock进行了翻译
+参考
 [基于Redis的分布式锁算法RedLock及RedLock-Hyperf实现](https://segmentfault.com/a/1190000039663994)
 ### 使用
 
