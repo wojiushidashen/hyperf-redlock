@@ -1,7 +1,7 @@
 # redlock-hyperf
 
 ```
-composer require zonghay/redlock-hyperf
+composer require ezijng/hyperf-redlock
 ```
 Based on [redlock-php](https://github.com/ronnylt/redlock-php) transform to [Hyperf  2.1.*](https://github.com/hyperf/hyperf) 
 
